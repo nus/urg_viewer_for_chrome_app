@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+  </defs>
+  <rect x="171.695" y="86.854" width="223.14" height="136.881" style="fill: rgb(249, 219, 69);" transform="matrix(0.8660250306129457, -0.5, -0.00024300000222865492, 1.1548409461975098, 96.96712493896496, 314.14810180664074)"/>
+  <rect x="171.695" y="87.555" width="223.14" height="137.986" style="fill: rgb(11, 189, 130);" transform="matrix(-0.8660250306129457, -0.5, 0.00024300000222865492, 1.1548409461975098, 395.4121704101565, 312.57186889648443)"/>
+  <rect x="171.696" y="121.851" width="223.14" height="192.035" style="fill: rgb(255, 39, 90); opacity: 1; mix-blend-mode: normal;" transform="matrix(0.866026, 0.5, -1.000241, 0.577211, 219.159896, -50.385562)"/>
+  <g>
+    <ellipse style="fill: rgb(240, 240, 240); opacity: 1; mix-blend-mode: normal; isolation: isolate;" cx="245.926" cy="214.9" rx="127.312" ry="67.382"/>
+    <path d="M 144.344 64.227 L 118.613 211.853 L 373.161 212.138 L 348.179 68.29 L 144.344 64.227 Z" style="stroke: none; fill: rgb(240, 240, 240); isolation: isolate;" bx:origin="0.5 0.5"/>
+  </g>
+  <ellipse style="fill: rgb(31, 158, 232);" cx="245.926" cy="68.927" rx="102.933" ry="54.478"/>
+</svg>

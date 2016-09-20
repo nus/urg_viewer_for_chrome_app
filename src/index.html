@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>UrgViewer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body style="height: 100%;">
+  <script src="main.js"></script>
+  
+  <form>
+    <input type="button" title="Refresh the revice list." value="&#x1F503;" name="devices-reflresh" />
+    <select name="devices" id="device-list">
+      <option>There are no devices</option>
+    </select>
+    <input type="button" value="Connect" name="conect" id="connect-device" />
+    <input type="button" value="Disconnect" name="disconnect" id="disconnect-device" />
+  </form>
+  <div id="canvas-wrapper" style="width: 100%; height: 100%; position: fixed;">
+    <canvas id="urg-canvas"></canvas>
+  </div>
+</body>
+</html>
